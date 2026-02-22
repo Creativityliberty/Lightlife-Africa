@@ -1,0 +1,8 @@
+{
+  "name": "Lightlife Africa",
+  "description": "Premium landing page for Lightlife, featuring the X39 phototherapy patch and a high-end MLM business opportunity. Designed with sage green, deep forest, and gold accents.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
